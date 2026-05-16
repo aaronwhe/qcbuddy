@@ -1,0 +1,25 @@
+{
+  "version": 3,
+  "updated": "2026-05-15",
+
+  "silence_threshold_db": -60,
+  "black_threshold":       0.98,
+  "freeze_threshold":      0.0005,
+  "audio_clip_db":         -0.3,
+  "audio_low_db":          -20,
+
+  "offline_score_threshold":    0.65,
+  "offline_proxy_min_frames":   2,
+
+  "offline_p1_red_frac_min":    0.65,
+  "offline_p1_red_frac_max":    0.98,
+
+  "offline_p4_dark_frac_min":   0.55,
+  "offline_p4_bright_frac_min": 0.04,
+  "offline_p4_bright_frac_max": 0.15,
+  "offline_p4_mid_frac_max":    0.09,
+  "offline_p4_luma_min":        40,
+  "offline_p4_luma_max":        130,
+  "offline_p4_sat_max":         0.45,
+  "offline_p4_texture_min":     4.0
+}
