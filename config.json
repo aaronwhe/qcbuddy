@@ -1,11 +1,11 @@
 {
-  "version": 3,
-  "updated": "2026-05-15",
+  "version": 4,
+  "updated": "2026-05-17",
 
   "silence_threshold_db": -60,
   "black_threshold":       0.98,
   "freeze_threshold":      0.0005,
-  "audio_clip_db":         -0.3,
+  "audio_clip_db":         0.0,
   "audio_low_db":          -20,
 
   "offline_score_threshold":    0.65,
