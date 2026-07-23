@@ -1,12 +1,14 @@
 {
-  "version": 4,
-  "updated": "2026-05-17",
+  "version": 5,
+  "updated": "2026-07-23",
 
   "silence_threshold_db": -60,
   "black_threshold":       0.98,
   "freeze_threshold":      0.0005,
   "audio_clip_db":         0.0,
   "audio_low_db":          -20,
+  "lufs_target_min":       -24.0,
+  "lufs_target_max":       -12.0,
 
   "offline_score_threshold":    0.65,
   "offline_proxy_min_frames":   2,
